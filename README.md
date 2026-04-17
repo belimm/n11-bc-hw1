@@ -1,7 +1,7 @@
 # SOLID Prensipleri ile Ödeme Yöntemi Entegrasyonu
 
 **Author:** [Berk Limoncu](https://www.belim.dev/)
-**Bootcamp:** n11 TalentHub Backend Bootcamp
+
 
 ---
 
